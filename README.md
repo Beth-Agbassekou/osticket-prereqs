@@ -41,7 +41,6 @@ The first step was creating a resource group and a VM in Microsoft Azure. Once t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img width="1440" alt="IIS" src="https://github.com/Beth-Agbassekou/osticket-prereqs/assets/148320585/52afa628-9dbd-40c2-bc36-cb50e71ccdd1">
 <img width="1440" alt="IIS PHP" src="https://github.com/Beth-Agbassekou/osticket-prereqs/assets/148320585/34b3c34d-becf-4092-b048-cb49d1046324">
 <img width="1440" alt="PHP Settings" src="https://github.com/Beth-Agbassekou/osticket-prereqs/assets/148320585/8cfaf479-cc42-4b95-a21f-149f17e09282">
