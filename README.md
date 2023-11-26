@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Using Azure create the Resource Group (RG) and VM to deploy the environment of osTicket
+- Enable Internet Information Systems (IIS) in Windows 
+- Download all installation files
+- Configure osTicket
+- Create the osTicket database in Heidi and login to osTicket
 
 <h2>Installation Steps</h2>
 
@@ -37,8 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The first step was creating a resource group and a VM in Microsoft Azure. Once that was done I copied the address of the VM and logged in to the VM via Microsoft remote desktop. </p>
 <br />
 
 <p>
@@ -52,8 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Once I was connected to the VM I enabled IIS, PHP, and I added a Rewrite Module. I used several installation files including a mySQL file, a Heidi file, and several exe files. Once the files were installed except for Heidi I started configuring osTicket. Then I connected Heidi to osTicket so it had a database to connect to. Once Heidi was connected I launched osTicket with The database I created in Heidi. </p>
 <br />
 
 <p>
@@ -62,6 +60,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Above are examples of what my pages looked like plus a page after I logged in to osTicket on my computer after installing the necessary files.</p>
 <br /># osticket-prereqs
